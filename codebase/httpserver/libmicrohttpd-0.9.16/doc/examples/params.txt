@@ -1,0 +1,3 @@
+Channel = 2
+ifacename = wlan0
+bssid = 13523096
