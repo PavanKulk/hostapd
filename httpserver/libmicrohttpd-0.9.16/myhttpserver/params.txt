@@ -1,0 +1,4 @@
+Channel = 2
+Frequency = 2417 MHz
+Rate = 1 Mbps
+Interface count = 1
